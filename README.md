@@ -5,9 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/adhamgamal22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
   <a href="https://linkedin.com/in/adhamgamal74">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -47,7 +45,7 @@ I'm actively looking for opportunities as a:
 
 with a particular interest in:
 
-**Fintech • Banking • Digital Wallets • Payment Systems • Distributed Systems**
+**Fintech • Payment Systems • Distributed Systems**
 
 ---
 
@@ -78,7 +76,6 @@ with a particular interest in:
 - Spring Validation
 - Spring REST
 - Spring WebSocket
-- Spring Actuator
 - Hibernate / JPA
 
 ---
@@ -270,8 +267,6 @@ JWT
 Stripe
 Docker
 
-🔗 Repository:
-https://github.com/adhamgamal22
 
 👨‍💼 Employee Management System
 
@@ -297,8 +292,7 @@ Spring Validation
 REST API
 PostgreSQL
 
-🔗 Repository:
-https://github.com/adhamgamal22
+
 
 🐳 DevOps & Infrastructure
 
@@ -373,15 +367,10 @@ Observability
 Health Checks
 🛠️ Tech Stack
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,bash,sql" /> </p>
 🌱 Backend
-<p> <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" /> </p>
 🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" /> </p>
 🐳 DevOps
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform" /> </p>
 🔧 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux" /> </p>
 📚 Currently Learning
 
 I'm currently working toward becoming a stronger:
@@ -500,20 +489,15 @@ Observability
 💡 What I Enjoy Building
 🏦 Fintech Systems
 💳 Payment Systems
-💰 Digital Wallets
 🔐 Authentication Systems
 📦 Microservices
 ⚡ Real-time Applications
 📊 RESTful APIs
 🐳 Containerized Applications
 ⚙️ CI/CD Pipelines
-☁️ Cloud-Native Systems
 📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adhamgamal22&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamgamal22&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamgamal22&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhamgamal22&theme=tokyo-night&hide_border=true" /> </p>
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adhamgamal22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" /> </p>
 🤝 Let's Connect
 
 I'm always interested in discussing:
@@ -528,5 +512,3 @@ Docker
 Kubernetes
 Fintech
 Software Engineering
-<p align="center"> <a href="mailto:adhamgaml336@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/adhamgamal74"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/adhamgamal22"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-<h3 align="center"> 🚀 Building Backend Systems Today. Designing Scalable Systems Tomorrow. </h3> <p align="center"> <i> Open to Junior Java Backend Developer opportunities — especially in Fintech 🚀 </i> </p> ```
