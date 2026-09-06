@@ -57,23 +57,21 @@
 
 ---
 
-### 📦 Realtime Shipment Tracking
-> Backend for real-time shipment tracking with WebSocket updates.
+📦 Realtime Shipment Tracking
+Backend for real-time shipment tracking with WebSocket updates.
 
-**Tech:** Java, Spring Boot, WebSocket (STOMP), JWT, PostgreSQL, Stripe
+Tech: Java, Spring Boot, WebSocket (STOMP), JWT, PostgreSQL, Stripe
 
-**Features:** Real-time updates, WebSocket communication, Stripe integration
-🔗 [Repostory] (https://github.com/adhamgamal22/Real-time-Shipment-Tracking-System)
-
+Features: Real-time updates, WebSocket communication, Stripe integration
+🔗 Repostory
 ---
+👨‍💼 Employee Management System
+RESTful backend with enterprise best practices.
 
-### 👨‍💼 Employee Management System
-> RESTful backend with enterprise best practices.
+Tech: Java, Spring Boot, Spring Data JPA, PostgreSQL
 
-**Tech:** Java, Spring Boot, Spring Data JPA, PostgreSQL
-
-**Features:** CRUD operations, DTO Pattern, Validation, Global Exception Handling
-🔗 [Repostory] (https://github.com/adhamgamal22/employee-management-sys-main)
+Features: CRUD operations, DTO Pattern, Validation, Global Exception Handling
+🔗 Repostory
 
 ---
 
