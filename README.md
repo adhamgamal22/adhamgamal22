@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham Gamal</h1>
 
 <h3 align="center">
-  Java Backend Developer | Spring Boot | Fintech | DevOps Enthusiast
+  Java Backend Developer | Spring Boot  | DevOps Engineer
 </h3>
 
 <p align="center">
