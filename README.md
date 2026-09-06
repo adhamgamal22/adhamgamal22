@@ -16,7 +16,7 @@
 
 **Java Backend Developer** focused on building scalable, secure, and maintainable systems using the Spring ecosystem. Currently a **DevOps Trainee at DEPI**.
 
-### 🎯 Looking for: **Junior Java Backend Developer** (Fintech/Payment Systems)
+### 🎯 Looking for:    **Junior Java Backend Developer** 
 
 ---
 
