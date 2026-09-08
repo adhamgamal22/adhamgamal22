@@ -53,7 +53,7 @@
 - **Real-time balance updates** via RabbitMQ
 - **99.9% Data Consistency** using Pessimistic Locking
 
-🔗 [Repository](https://github.com/adhamgamal22/banking-platform)
+🔗 [Repository]([(https://github.com/adhamgamal22/digital-wallet)])
 
 ### 📦 Realtime Shipment Tracking
 > Backend for real-time shipment tracking with WebSocket updates.
