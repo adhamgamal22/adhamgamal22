@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Gamal</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | DevOps Engineer</h3>
+<h3 align="center">Java Backend Developer | Spring Boot & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/adhamgamal74">
@@ -8,95 +8,91 @@
   <a href="mailto:adhamgaml336@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/adhamgamal22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🎯 <b>Targeting Role:</b> Junior / Associate Java Backend Developer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-**Java Backend Developer** focused on building scalable, secure, and maintainable systems using the Spring ecosystem. Currently a **DevOps Trainee at DEPI**.
+Backend Software Engineer focused on building **scalable**, **secure**, and **high-performance** distributed systems using Java and the Spring ecosystem. Currently honing production-grade infrastructure and CI/CD practices as a **DevOps Trainee at DEPI**.
 
-### 🎯 Looking for:    **Junior Java Backend Developer** 
+- 🔭 **Currently Building:** High-throughput microservices architectures.
+- ⚡ **Technical Strengths:** Distributed caching, pessimistic locking, real-time WebSockets, and clean code practices.
+- 🎓 **Continuous Learning:** Expanding knowledge in Kubernetes, CI/CD pipelines, and System Design patterns.
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
-|----------|--------------|
-| **Languages** | Java 17/21 |
-| **Framework** | Spring Boot 3.3, Spring Security, Spring Data JPA |
-| **Databases** | PostgreSQL, MySQL, Redis |
-| **Messaging** | RabbitMQ, WebSocket (STOMP) |
-| **DevOps** | Docker, Ansible, Jenkins (learning), Kubernetes (learning) |
-| **Tools** | Git, Maven, Postman, JUnit, Mockito |
+| :--- | :--- |
+| **Languages** | Java (17/21), SQL |
+| **Frameworks** | Spring Boot 3.x, Spring Security, Spring Data JPA, Hibernate |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis |
+| **Messaging & Real-time** | RabbitMQ, WebSockets (STOMP) |
+| **DevOps & Cloud** | Docker, Docker Compose, Ansible, Jenkins, Kubernetes *(Learning)* |
+| **Tools & Testing** | Git, Maven, Postman, JUnit 5, Mockito |
 
 ---
 
 ## 🏗️ Core Competencies
 
-- ✅ RESTful APIs & Microservices
-- ✅ JWT Authentication & Authorization
-- ✅ Database Design (JPA/Hibernate, Transactions, Locking)
-- ✅ Event-Driven Architecture (RabbitMQ)
-- ✅ Containerization (Docker)
-- ✅ Clean Code, SOLID, Design Patterns
-
----
-### 🏦 Digital Wallet 
-
-> **Microservices-based fintech platform** handling digital wallet operations, peer-to-peer transfers, and payment processing with distributed transaction management.
-
-**📊 Project Scale:**
-- **5 Microservices** (Auth, User, Account, Wallet, Transaction)
-- **15+ RESTful Endpoints**
-- **Real-time balance updates** via RabbitMQ
-- **99.9% Data Consistency** using Pessimistic Locking
-
-🔗 [Repository](https://github.com/adhamgamal22/digital-wallet)
-
-### 📦 Realtime Shipment Tracking
-> Backend for real-time shipment tracking with WebSocket updates.
-
-**Tech:** Java, Spring Boot, WebSocket (STOMP), JWT, PostgreSQL, Stripe
-
-**Features:** Real-time updates, WebSocket communication, Stripe integration
-🔗 [Repostory](https://github.com/adhamgamal22/Real-time-Shipment-Tracking-System)
+- **Architecture:** RESTful APIs, Microservices Architecture, Event-Driven Systems
+- **Security:** JWT Authentication & Role-Based Access Control (RBAC)
+- **Data Integrity:** Transaction Management, Database Locking (Pessimistic/Optimistic)
+- **Engineering Excellence:** SOLID Principles, Design Patterns, Clean Code, DTO Pattern, Global Exception Handling
 
 ---
 
-### 👨‍💼 Employee Management System
-> RESTful backend with enterprise best practices.
+## 🚀 Featured Projects
 
-**Tech:** Java, Spring Boot, Spring Data JPA, PostgreSQL
+### 🏦 [Digital Wallet Platform](https://github.com/adhamgamal22/digital-wallet)
+> **Microservices-based Fintech Platform** handling wallet operations, peer-to-peer transfers, and distributed transactions.
 
-**Features:** CRUD operations, DTO Pattern, Validation, Global Exception Handling
-🔗 [Repostory](https://github.com/adhamgamal22/employee-management-sys-main)
-
-## 📚 Learning Path
-
-### 🎯 2026 Goals
-- Build production-ready Spring Boot applications
-- Master Docker & Kubernetes
-- Build complete CI/CD pipelines
-- Contribute to Open Source
-- Improve System Design skills
+- **Architecture:** 5 Decoupled Microservices (*Auth, User, Account, Wallet, Transaction*)
+- **Key Features:** Real-time balance updates via **RabbitMQ** & **99.9% Data Consistency** under concurrent operations using **Pessimistic Locking**.
+- **Tech Stack:** Java, Spring Boot, Spring Security, RabbitMQ, PostgreSQL, Redis.
 
 ---
 
-## 📊 GitHub Stats
+### 📦 [Real-Time Shipment Tracking System](https://github.com/adhamgamal22/Real-time-Shipment-Tracking-System)
+> Backend solution for live package updates and payment integration.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamgamal22&theme=radical" />
-</p>
+- **Key Features:** Low-latency bi-directional communication using **WebSocket (STOMP)** and secure checkout with **Stripe Integration**.
+- **Tech Stack:** Java, Spring Boot, WebSocket, JWT, PostgreSQL, Stripe.
+
+---
+
+### 👨‍💼 [Employee Management System](https://github.com/adhamgamal22/employee-management-sys-main)
+> Enterprise-grade RESTful API built following clean architecture standards.
+
+- **Key Features:** Robust CRUD operations, DTO mapping, strict request validation, and centralized exception handling.
+- **Tech Stack:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhamgamal22&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamgamal22&theme=radical" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamgamal74)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhamgaml336@gmail.com)
+Feel free to reach out for opportunities, collaborations, or technical discussions!
+
+- 💼 **LinkedIn:** [Adham Gamal](https://linkedin.com/in/adhamgamal74)
+- 📧 **Email:** [adhamgaml336@gmail.com](mailto:adhamgaml336@gmail.com)
