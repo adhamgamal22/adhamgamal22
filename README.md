@@ -37,7 +37,7 @@ Backend Software Engineer focused on building **scalable**, **secure**, and **hi
 | **Frameworks** | Spring Boot 3.x, Spring Security, Spring Data JPA, Hibernate |
 | **Databases & Caching** | PostgreSQL, MySQL, Redis |
 | **Messaging & Real-time** | RabbitMQ, WebSockets (STOMP) |
-| **DevOps & Cloud** | Docker, Docker Compose, Ansible, Jenkins, Kubernetes *(Learning)* |
+| **DevOps & Cloud** | Docker, Docker Compose, Ansible, Jenkins, Kubernetes |
 | **Tools & Testing** | Git, Maven, Postman, JUnit 5, Mockito |
 
 ---
