@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adham Gamal</h1>
-<h3 align="center">Java Backend Developer | Spring Boot & DevOps Enthusiast</h3>
+<h3 align="center">Java Backend Developer | Spring Boot & DevOps Engineer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhamgamal22&color=blueviolet&style=for-the-badge" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/adhamgamal74">
@@ -37,7 +41,7 @@ Backend Software Engineer focused on building **scalable**, **secure**, and **hi
 | **Frameworks** | Spring Boot 3.x, Spring Security, Spring Data JPA, Hibernate |
 | **Databases & Caching** | PostgreSQL, MySQL, Redis |
 | **Messaging & Real-time** | RabbitMQ, WebSockets (STOMP) |
-| **DevOps & Cloud** | Docker, Docker Compose, Ansible, Jenkins, Kubernetes |
+| **DevOps & Cloud** | Docker, Docker Compose, Ansible, Jenkins, Kubernetes *(Learning)* |
 | **Tools & Testing** | Git, Maven, Postman, JUnit 5, Mockito |
 
 ---
@@ -56,29 +60,42 @@ Backend Software Engineer focused on building **scalable**, **secure**, and **hi
 ### 🏦 [Digital Wallet Platform](https://github.com/adhamgamal22/digital-wallet)
 > **Microservices-based Fintech Platform** handling wallet operations, peer-to-peer transfers, and distributed transactions.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 - **Architecture:** 5 Decoupled Microservices (*Auth, User, Account, Wallet, Transaction*)
 - **Key Features:** Real-time balance updates via **RabbitMQ** & **99.9% Data Consistency** under concurrent operations using **Pessimistic Locking**.
-- **Tech Stack:** Java, Spring Boot, Spring Security, RabbitMQ, PostgreSQL, Redis.
 
 ---
 
 ### 📦 [Real-Time Shipment Tracking System](https://github.com/adhamgamal22/Real-time-Shipment-Tracking-System)
 > Backend solution for live package updates and payment integration.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
 - **Key Features:** Low-latency bi-directional communication using **WebSocket (STOMP)** and secure checkout with **Stripe Integration**.
-- **Tech Stack:** Java, Spring Boot, WebSocket, JWT, PostgreSQL, Stripe.
 
 ---
 
 ### 👨‍💼 [Employee Management System](https://github.com/adhamgamal22/employee-management-sys-main)
 > Enterprise-grade RESTful API built following clean architecture standards.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 - **Key Features:** Robust CRUD operations, DTO mapping, strict request validation, and centralized exception handling.
-- **Tech Stack:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
 
 ---
-
 ## 📊 GitHub Analytics
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhamgamal22&theme=radical" />
@@ -87,7 +104,6 @@ Backend Software Engineer focused on building **scalable**, **secure**, and **hi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamgamal22&theme=radical" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
