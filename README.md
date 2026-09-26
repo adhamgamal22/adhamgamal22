@@ -4,6 +4,9 @@
 Java Backend Developer | Spring Boot | DevOps
 </h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhamgamal22&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /> </p>
+
+
 <p align="center">
   <a href="https://linkedin.com/in/adhamgamal74">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
