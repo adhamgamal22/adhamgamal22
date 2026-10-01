@@ -105,25 +105,11 @@ Currently, I'm expanding my DevOps skills through hands-on training at **DEPI**,
 * Transaction Management
 * Pagination & Validation
 * Global Exception Handling
-
-### Security
-
-* Spring Security
-* JWT Authentication
-* Refresh Tokens
-* Role-Based Access Control (RBAC)
-* Password Encryption
-* Secure API Design
-
-### System Design
-
 * Microservices Architecture
 * Event-Driven Architecture
 * Distributed Systems Fundamentals
 * Database Locking
 * Idempotency
-* Caching
-* Real-Time Communication
 
 ### DevOps
 
@@ -133,76 +119,6 @@ Currently, I'm expanding my DevOps skills through hands-on training at **DEPI**,
 * Ansible Automation
 * Kubernetes
 * Git & GitHub
-
----
-
-# 🚀 Featured Projects
-
-## 💳 Digital Wallet & Ledger System
-
-**Java 17 • Spring Boot • PostgreSQL • Redis • RabbitMQ • JWT**
-
-A backend financial system designed to handle secure wallet operations and transactional money transfers.
-
-### Key Features
-
-* 🔐 JWT Authentication & Refresh Tokens
-* 💰 Secure wallet transactions
-* 🔄 Transaction management using `@Transactional`
-* 🛡️ Idempotency for transaction safety
-* 🔒 Optimistic/Pessimistic locking
-* ⚡ Redis for caching and token management
-* 📨 RabbitMQ for asynchronous processing
-* 🗃️ PostgreSQL persistence
-* 🧱 Clean architecture and separation of concerns
-
-🔗 **Repository:**
-https://github.com/adhamgamal22/digital-wallet
-
----
-
-## 📦 Real-Time Shipment Tracking System
-
-**Java 17 • Spring Boot • PostgreSQL • WebSocket • JWT • Stripe**
-
-A backend system for managing shipments and providing real-time shipment tracking.
-
-### Key Features
-
-* 📦 Shipment creation and management
-* 📍 Real-time location tracking
-* 🔄 WebSocket/STOMP communication
-* 🔐 JWT Authentication
-* 👥 Role-Based Access Control
-* 💳 Stripe payment integration
-* 🗄️ PostgreSQL with Spring Data JPA
-* 📚 Swagger API documentation
-
-🔗 **Repository:**
-https://github.com/adhamgamal22/realtime-shipment-tracking-system
-
----
-
-## 👥 Employee Management System
-
-**Java • Spring Boot • Spring Security • PostgreSQL • REST API**
-
-A secure backend system for managing employees and user access.
-
-### Key Features
-
-* 🔐 JWT Authentication
-* 👥 ADMIN / USER roles
-* 🔒 Role-Based Authorization
-* 📋 DTO-based API design
-* ✅ Request validation
-* ⚠️ Global Exception Handling
-* 📄 Pagination
-* 🔑 Password Reset
-* 🏗️ Controller → Service → Repository architecture
-
-🔗 **Repository:**
-https://github.com/adhamgamal22/employee-management-sys-main
 
 ---
 
@@ -249,21 +165,6 @@ Cloud & Infrastructure
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamgamal22&theme=github-dark" />
 </p>
-
----
-
-# 📚 Currently Improving
-
-* Advanced Spring Security
-* Microservices Architecture
-* System Design
-* Distributed Systems
-* Redis & Caching
-* RabbitMQ & Event-Driven Architecture
-* Docker & Containerization
-* Jenkins CI/CD
-* Kubernetes
-* Linux Administration
 
 ---
 
