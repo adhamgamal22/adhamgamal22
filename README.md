@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Adham Gamal</h1>
+<div align="center">
 
-<h3 align="center">
+<h1>Hi 👋, I'm</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Adham+Gamal" alt="Adham Gamal" />
+
+<h3>
 Java Backend Developer | Spring Boot | DevOps
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhamgamal22&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=adhamgamal22&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/adhamgamal74">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -22,6 +27,7 @@ Java Backend Developer | Spring Boot | DevOps
   </a>
 </p>
 
+</div>
 
 ---
 
@@ -189,15 +195,23 @@ I'm particularly interested in environments where I can work on:
 # 🤝 Let's Connect
 
 <p align="center">
+
   <a href="https://linkedin.com/in/adhamgamal74">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:adhamgaml336@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://wa.me/201115277598">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
   <a href="https://github.com/adhamgamal22">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </p>
 
 <p align="center">
