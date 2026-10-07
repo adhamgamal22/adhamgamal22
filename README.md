@@ -94,23 +94,6 @@ CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt P
 
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%90%8D+Contribution+Snake&font=Fira+Code&center=true&vCenter=true&width=450&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="🐍 Contribution Snake"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/adhamgamal22/adhamgamal22/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8C%90+3D+Contributions&font=Fira+Code&center=true&vCenter=true&width=450&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="🌐 3D Contributions"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/adhamgamal22/adhamgamal22/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions" width="100%" />
-</div>
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:943535&height=4&section=header" width="100%"/>
 
 <div align="center">
