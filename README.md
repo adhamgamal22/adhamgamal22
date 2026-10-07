@@ -4,7 +4,7 @@
 
 <h2>Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Docker+%26+Kubernetes+Enthusiast;Building+Secure+%26+Scalable+APIs;Open+to+Junior+Backend+Roles&font=Fira+Code&center=true&width=550&height=45&color=DC143C&pause=1000&size=22"/></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Docker+%26+Kubernetes+Enthusiast;Building+Secure+%26+Scalable+APIs;Open+to+Junior+Backend+Roles&font=Fira+Code&center=true&vCenter=true&width=550&height=45&color=DC143C&pause=1000&size=22" alt="Typing"/>
 
 <br>
 
@@ -21,7 +21,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:943535&height=4&section=header" width="100%"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me&font=Fira+Code&center=true&width=400&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me&font=Fira+Code&center=true&vCenter=true&width=400&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="👨‍💻 About Me"/>
 </div>
 
 CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt Pioneers Initiative (DEPI)**. I focus on backend systems where correctness matters: money movement, concurrency, authentication, and real-time data. I'm looking for a **Junior Java Backend Developer** role, ideally in fintech.
@@ -48,7 +48,7 @@ CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt P
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:943535&height=4&section=header" width="100%"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Tech+Stack&font=Fira+Code&center=true&width=400&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Tech+Stack&font=Fira+Code&center=true&vCenter=true&width=400&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="🚀 Tech Stack"/>
 </div>
 
 **Core**
@@ -76,8 +76,10 @@ CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt P
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:943535&height=4&section=header" width="100%"/>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%8A+GitHub+Analytics&font=Fira+Code&center=true&vCenter=true&width=450&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="📊 GitHub Analytics"/>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%8A+GitHub+Analytics&font=Fira+Code&center=true&width=450&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
+<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=adhamgamal22&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamgamal22&layout=compact&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=ffffff" alt="Top Languages" />
@@ -90,37 +92,40 @@ CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt P
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhamgamal22&theme=2077" alt="Profile Details" width="100%" />
 
-<br>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8F%86+Trophies&font=Fira+Code&center=true&width=400&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%90%8D+Contribution+Snake&font=Fira+Code&center=true&vCenter=true&width=450&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="🐍 Contribution Snake"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adhamgamal22&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" width="100%" />
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%88+Activity+Graph&font=Fira+Code&center=true&width=450&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhamgamal22&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%90%8D+Contribution+Snake&font=Fira+Code&center=true&width=450&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/adhamgamal22/adhamgamal22/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
 
-<br>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8C%90+3D+Contributions&font=Fira+Code&center=true&vCenter=true&width=450&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="🌐 3D Contributions"/>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8C%90+3D+Contributions&font=Fira+Code&center=true&width=450&height=40&color=DC143C&size=26&duration=3000&pause=500"/></a>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/adhamgamal22/adhamgamal22/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions" width="100%" />
+</div>
 
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC143C,100:943535&height=4&section=header" width="100%"/>
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck" alt="Quote" />
 
-<br><br>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%AB+Let%27s+Connect;Hiring+for+a+junior+backend+role%3F+Get+in+touch!&font=Fira+Code&center=true&width=550&height=40&color=DC143C&size=22&pause=1500"/></a>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%AB+Let%27s+Connect&font=Fira+Code&center=true&vCenter=true&width=400&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="📫 Let's Connect"/>
+</div>
+
+<div align="center">
+
+**Hiring for a junior backend role? [Get in touch](mailto:adhamgaml336@gmail.com).**
 
 <a href="https://www.linkedin.com/in/adhamgamal74"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:adhamgaml336@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
