@@ -24,7 +24,9 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me&font=Fira+Code&center=true&vCenter=true&width=400&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="👨‍💻 About Me"/>
 </div>
 
-CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt Pioneers Initiative (DEPI)**. I focus on backend systems where correctness matters: money movement, concurrency, authentication, and real-time data. I'm looking for a **Junior Java Backend Developer** role, ideally in fintech.
+Java Backend Developer with hands-on experience building microservices and secure REST APIs using **Java, Spring Boot, Spring Security (JWT), PostgreSQL, Redis, and RabbitMQ**. I've built a **Banking & Digital Wallet platform** and a **Real-Time Shipment Tracking System**, and I containerize and deploy my services with **Docker and Kubernetes**.
+
+Computer Science graduate (Benha University, 2025) with a DevOps specialization through the **Digital Egypt Pioneers Initiative (DEPI)**. I'm looking for a **Junior Java Backend Developer** role, ideally in fintech.
 
 <table>
   <tr>
@@ -51,7 +53,7 @@ CS graduate (Benha University, 2025) and DevOps trainee in the **Digital Egypt P
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Tech+Stack&font=Fira+Code&center=true&vCenter=true&width=400&height=45&color=DC143C&size=24&repeat=false&duration=2500" alt="🚀 Tech Stack"/>
 </div>
 
-**Backend Devlopment**
+**Core**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
