@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC143C,100:943535&height=240&section=header&text=Adham%20Gamal&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22" width="100%"/>
 
-<h2>Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h2>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h2>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Docker+%26+Kubernetes+Enthusiast;Building+Secure+%26+Scalable+APIs;Open+to+Junior+Backend+Roles&font=Fira+Code&center=true&vCenter=true&width=550&height=45&color=DC143C&pause=1000&size=22" alt="Typing"/>
 
